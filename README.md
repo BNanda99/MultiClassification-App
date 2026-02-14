@@ -35,8 +35,8 @@ Six different classification models were implemented, tuned with RandomizedSearc
 | Decision Tree | 84.72% | 0.9395 | 84.87% | 84.72% | 84.76% | 0.6912 |
 | kNN | 99.83% | 1.0000 | 99.83% | 99.83% | 99.83% | 0.9966 |
 | Naive Bayes | 63.60% | 0.6715 | 64.33% | 63.60% | 63.76% | 0.2716 |
-| Random Forest (Ensemble) | 82.98% | 0.9224 | 83.19% | 82.98% | 83.02% | 0.6531 |
-| XGBoost (Ensemble) | 97.79% | 0.9978 | 97.80% | 97.79% | 97.79% | 0.9550 |
+| Random Forest (Ensemble) | 82.98% | 0.9224 | 83.19% | 82.98% | 83.02% | 0.6541 |
+| XGBoost (Ensemble) | 97.78% | 0.9978 | 97.79% | 97.78% | 97.78% | 0.9548 |
 
 ## Observations on Model Performance
 
