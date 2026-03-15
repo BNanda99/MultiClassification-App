@@ -51,7 +51,7 @@ Six different classification models were implemented, tuned with RandomizedSearc
 
 ## Streamlit Web Application
 
-An interactive Streamlit application is provided to test these models with new data.
+An interactive Streamlit application is provided to test these models with new data. link - https://multiclassification-app-biswajit.streamlit.app/
 
 - **Features:**
     - Upload a CSV file for prediction with any of the 6 models.
